@@ -1,7 +1,7 @@
 # paper_review
 논문 리뷰를 작성하고있습니다.
 
-[![opened-issue-badge]()
+[![opened-issue-badge](https://github.com/AsellaS2/paper_review/issues?q=is%3Aopen+is%3Aissue)
 [![closed-issue-badge]()
 
 ## 소개 👋
