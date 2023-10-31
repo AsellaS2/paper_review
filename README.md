@@ -1,8 +1,8 @@
 # paper_review
 논문 리뷰를 작성하고있습니다.
 
-[![opened-issue-badge](https://img.shields.io/github/issues/codertimo/paper-log)](https://github.com/AsellaS2/paper_review/issues?q=is%3Aopen+is%3Aissue)
-[![closed-issue-badge](https://img.shields.io/github/issues-closed/codertimo/paper-log)](https://github.com/AsellaS2/paper_review/issues?q=is%3Aissue+is%3Aclosed)
+[![opened-issue-badge](https://img.shields.io/github/issues/AsellaS2/paper_review)](https://github.com/AsellaS2/paper_review/issues?q=is%3Aopen+is%3Aissue)
+[![closed-issue-badge](https://img.shields.io/github/issues-closed/AsellaS2/paper_review)](https://github.com/AsellaS2/paper_review/issues?q=is%3Aissue+is%3Aclosed)
 
 ## 소개 👋
 
